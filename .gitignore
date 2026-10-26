@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# 绝不提交任何密钥/明文/个人数据
+wechat-keys.json
+*.sqlite
+decrypted/

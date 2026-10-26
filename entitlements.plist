@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <!-- 允许调试器(lldb)附加并读取进程内存。ad-hoc 重签时加上它即可，无需开发者证书。 -->
+  <key>com.apple.security.get-task-allow</key>
+  <true/>
+</dict>
+</plist>
